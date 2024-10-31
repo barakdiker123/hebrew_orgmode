@@ -1,0 +1,56 @@
+#+title: Lecture1
+
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER:\usepackage{polyglossia}
+#+LATEX_HEADER:\newfontfamily{\englishfont}{Latin Modern Roman}
+#+LATEX_HEADER:\newfontfamily{\hebrewfont}[Script=Hebrew]{Hadasim CLM}
+#+LATEX_HEADER:\newfontfamily{\hebrewfont}[Script=Hebrew]{Miriam Mono CLM}
+#+LATEX_HEADER:\usepackage{amssymb}
+#+LATEX_HEADER:\usepackage{amsmath}
+#+LATEX_HEADER:\setmainlanguage{hebrew}
+#+LATEX_HEADER:\setotherlanguage{english}
+#+LATEX_HEADER:\usepackage{titlesec}
+#+OPTIONS: toc:nil       
+#+options: num:0
+פונקציה ווקטורית
+* דיפרנציאביליות
+טקדגעשדגעחש דגעמחשדמ שדחלה שדגחהנלשדה שחדהשחדלגה שדחהשדה
+
+דגה שד
+ה שד ה
+שדה שדהשדה
+* שיעורי הבית
+שגדכשד כחדמכ שמחדכ שדגכ שכ
+ג ש
+דכ שד כש
+ד כשד
+כ ש
+דגכ ש
+דכ
+שדגכ שדגכ שדגכ שדגכ שדגכ שדגהשדךמגה שמדגה שדגה שד
+הש
+דה שדה שדג הש
+ד
+שדגה שדגה ש
+
+שד גשה
+\begin{equation}
+a_1
+\end{equation}
+
+
+* שבוע ראשון ואחרון אין עבודות בית
+*  15%
+* ביום חמישי מ 15 זמין אינפי 3 !
+
+
+
+
+
+
+
+
+
+
+
+
