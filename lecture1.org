@@ -1,24 +1,49 @@
 #+title: Lecture1
 
 #+LATEX_COMPILER: xelatex
+#+LATEX_HEADER:\usepackage{titlesec}
 #+LATEX_HEADER:\usepackage{polyglossia}
+
+
+
 #+LATEX_HEADER:\newfontfamily{\englishfont}{Latin Modern Roman}
 #+LATEX_HEADER:\newfontfamily{\hebrewfont}[Script=Hebrew]{Hadasim CLM}
-#+LATEX_HEADER:\newfontfamily{\hebrewfont}[Script=Hebrew]{Miriam Mono CLM}
+#+LATEX_HEADER:\newfontfamily{\hebrewfonttt}[Script=Hebrew]{Miriam Mono CLM}
+
 #+LATEX_HEADER:\usepackage{amssymb}
 #+LATEX_HEADER:\usepackage{amsmath}
 #+LATEX_HEADER:\setmainlanguage{hebrew}
 #+LATEX_HEADER:\setotherlanguage{english}
-#+LATEX_HEADER:\usepackage{titlesec}
 #+OPTIONS: toc:nil       
 #+options: num:0
 פונקציה ווקטורית
 * דיפרנציאביליות
-טקדגעשדגעחש דגעמחשדמ שדחלה שדגחהנלשדה שחדהשחדלגה שדחהשדה
+טקסט מעניין על דפרנציאביליות וגם גזירות של פונקציות בכמה משתנים
+\begin{equation}
+\begin{pmatrix}
+t + t^2 \\
+t \\
+t + 1 
+\end{pmatrix}
+\end{equation}
 
-דגה שד
-ה שד ה
-שדה שדהשדה
+
+
+#+begin_example python
+print("barak")
+#+end_example
+
+
+
+Hello World !! 
+#+begin_src python 
+print("barak")
+
+#+end_src
+
+#+RESULTS:
+: None
+
 * שיעורי הבית
 שגדכשד כחדמכ שמחדכ שדגכ שכ
 ג ש
