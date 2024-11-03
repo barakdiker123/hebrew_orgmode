@@ -35,14 +35,6 @@ print("barak")
 
 
 
-Hello World !! 
-#+begin_src python 
-print("barak")
-
-#+end_src
-
-#+RESULTS:
-: None
 
 * שיעורי הבית
 שגדכשד כחדמכ שמחדכ שדגכ שכ
