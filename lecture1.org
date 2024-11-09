@@ -1,10 +1,13 @@
 #+title: Lecture1
 
 #+LATEX_COMPILER: xelatex
+#+LATEX_HEADER:\usepackage{xcolor}
+#+LATEX_HEADER:\usepackage{fancyvrb}
+#+LATEX_HEADER:\usepackage{pgf}
+#+LATEX_HEADER:\usepackage{float}
+#+LATEX_HEADER:\usepackage{lineno}
 #+LATEX_HEADER:\usepackage{titlesec}
 #+LATEX_HEADER:\usepackage{polyglossia}
-
-
 
 #+LATEX_HEADER:\newfontfamily{\englishfont}{Latin Modern Roman}
 #+LATEX_HEADER:\newfontfamily{\hebrewfont}[Script=Hebrew]{Hadasim CLM}
@@ -32,6 +35,13 @@ t + 1
 #+begin_example python
 print("barak")
 #+end_example
+
+#+begin_src python output 
+print("barak")
+#+end_src 
+
+#+RESULTS:
+: None
 
 
 
